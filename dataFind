@@ -1,0 +1,11 @@
+dataBase = [12, 24, 36, 48, 60, 72, 84, 96, 108]
+
+def findData(data):
+    if data in dataBase:
+        print(True)
+    else:
+        print("Sorry, your data was not found")
+        
+        
+data = int(input("What data point would you like to look for?\n> ")
+findData(data)
