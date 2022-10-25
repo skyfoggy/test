@@ -7,5 +7,5 @@ def findData(data):
         print("Sorry, your data was not found")
         
         
-data = int(input("What data point would you like to look for?\n> ")
+data = int(input("What data point would you like to look for?\n> "))
 findData(data)
